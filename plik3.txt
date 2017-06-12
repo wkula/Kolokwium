@@ -1,4 +1,4 @@
-#include <stdio.h>ggg
+#include <stdio.h>zmiana
 #include <stdlib.h>
 #define N 15
 
